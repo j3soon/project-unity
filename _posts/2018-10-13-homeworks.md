@@ -23,6 +23,8 @@ Unity 課程的作業會歸納在這裡。
 
 檔案名稱：`姓名/暱稱_hwN`（每次作業都必須用一樣的暱稱 (N 那邊要隨哪次作業來改)，不然會被視為兩個人）
 
+更新作業：`姓名/暱稱_hwNv2` 然後如果更新很多次的話可以用 `v3`, `v4` 之類的，我們才知道要幫你重新打分數。
+
 檔案格式：只要是常見的影片檔就可以了
 
 > 例如：[魔人芳芳_hw1.avi](https://hackmd.io/JX_CQpWZRQKiJMiG7-zk2A?both)
@@ -36,17 +38,17 @@ Unity 課程的作業會歸納在這裡。
 
 ### 進階作業 (Bonus)
 
-錄製第一堂課的成果為影片後上傳。
+從 Unity Asset Store 下載 Unity Chan, 並替換掉自己原本的吉祥物。
 
 上傳到：[Google Drive](https://drive.google.com/open?id=15QL-GawX-mqMWn88cn298_3mWK4XbbDO)
 
 檔案名稱：`姓名/暱稱_bonusN`（每次作業都必須用一樣的暱稱 (N 那邊要隨哪次作業來改)，不然會被視為兩個人）
 
+更新作業：`姓名/暱稱_bonusNv2` 然後如果更新很多次的話可以用 `v3`, `v4` 之類的，我們才知道要幫你重新打分數。
+
 檔案格式：只要是常見的影片檔就可以了
 
 > 例如：彥斌老師_bonus1.mp4
-
-從 Unity Asset Store 下載 Unity Chan, 並替換掉自己原本的吉祥物。
 
 評分標準：
 

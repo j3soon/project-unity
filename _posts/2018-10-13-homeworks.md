@@ -7,7 +7,7 @@ tags:   beginner
 
 Unity 課程的作業會歸納在這裡。
 
-我們會在繳交期限後更新[計分版](https://j3soon.com/project-unity/scoreboard)。
+我們會在繳交期限後更新[計分版]({{site.baseurl}}/scoreboard/)。
 
 作業可能會有部分給分，更高難度的作業也會給你額外的分數哦！
 

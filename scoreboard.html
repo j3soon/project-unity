@@ -47,44 +47,53 @@ table {
     <tr>
       <td>巧克力好吃</td>
       <td>100</td>
-      <td class="ac">●</td>
+      <td class="ac" onclick="comment('狗狗好可愛<3');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
     <tr>
       <td>企鵝小雞</td>
       <td>100</td>
-      <td class="ac">●</td>
+      <td class="ac" onclick="comment('有水池欸，小雞一定很開心～');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
     <tr>
       <td>鄭宇軒</td>
       <td>100</td>
-      <td class="ac">●</td>
+      <td class="ac" onclick="comment('26 秒那邊的山谷也太合身了吧！');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
     <tr>
       <td>彥斌老師</td>
       <td>90</td>
-      <td class="ce">●</td>
+      <td class="ce" onclick="comment('還行～');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
     <tr>
       <td>陳柏均</td>
       <td>90</td>
-      <td class="ce">●</td>
+      <td class="ce" onclick="comment('好像沒有拍到從可執行檔打開喔～');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
     <tr>
       <td>魔人芳芳</td>
       <td>30</td>
-      <td class="tle">●</td>
+      <td class="tle" onclick="comment('沒救了～');">●</td>
       <td class="null">●</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
+<h2>Comment:</h2>
+<p id="comment">點擊排行榜上面的豆豆來查看評語。</p>
+
+<script>
+function comment(str) {
+  document.getElementById("comment").innerHTML = str;
+}
+</script>
